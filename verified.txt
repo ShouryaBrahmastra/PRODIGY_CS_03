@@ -1,0 +1,5 @@
+Password: shourya02
+Strength: Your password is strong.
+
+Password: yash
+Strength: Your password is weak.
